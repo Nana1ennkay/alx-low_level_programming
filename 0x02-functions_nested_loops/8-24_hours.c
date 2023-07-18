@@ -19,10 +19,6 @@ _putchar((j / 10) + '0');
 _putchar((j % 10) + '0');
 _putchar('\n');
 j++;
-
-18/07/2023, 2:24 PM
-Page 4 of 11
-
 j++;
 }
 i++;

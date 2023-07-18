@@ -16,10 +16,6 @@ unsigned long int bef1;
 unsigned long int bef2;
 unsigned long int aft1;
 unsigned long int aft2;
-
-18/07/2023, 2:24 PM
-Page 9 of 11
-
 printf("%lu", bef);
 for (i = 1; i < 91; i++)
 {
